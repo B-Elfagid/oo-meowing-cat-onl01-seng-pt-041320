@@ -1,4 +1,5 @@
 ## code your solution here.
-c
+class cat
+
 
 
